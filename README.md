@@ -73,4 +73,4 @@ Language: **Python (Pandas, Matplotlib, Seaborn)**
 🚀 How to Run
 1.download file
 2.run on jupyter notebook
-3.Don't forget to download given dataset
+3.Don't forget to download given dataset extract it from zip
