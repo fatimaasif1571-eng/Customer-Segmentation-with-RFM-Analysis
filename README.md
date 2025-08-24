@@ -71,6 +71,8 @@ Language: **Python (Pandas, Matplotlib, Seaborn)**
 - `RFM_Segmentation.csv` → Results  
 ---
 🚀 How to Run
-1.download file
+1.download file 
+
 2.run on jupyter notebook
+
 3.Don't forget to download given dataset extract it from zip
